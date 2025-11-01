@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Excercise 6/Excercise 6.iml" filepath="$PROJECT_DIR$/Lecture3/Excercise 6/Excercise 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Excercise1/Excercise1.iml" filepath="$PROJECT_DIR$/Lecture5/Excercise1/Excercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Excercise2/Excercise2.iml" filepath="$PROJECT_DIR$/Lecture5/Excercise2/Excercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Excercise2MT/Excercise2MT.iml" filepath="$PROJECT_DIR$/Midterm/Excercise2MT/Excercise2MT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Excercise3/Excercise3.iml" filepath="$PROJECT_DIR$/Lecture4/Excercise3/Excercise3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Excercise3.1/Excercise3.1.iml" filepath="$PROJECT_DIR$/Lecture5/Excercise3.1/Excercise3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Excercise3MT/Excercise3MT.iml" filepath="$PROJECT_DIR$/Midterm/Excercise3MT/Excercise3MT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Excercise4/Excercise4.iml" filepath="$PROJECT_DIR$/Lecture4/Excercise4/Excercise4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Excercise5/Excercise5.iml" filepath="$PROJECT_DIR$/Lecture3/Excercise5/Excercise5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Excercise6/Excercise6.iml" filepath="$PROJECT_DIR$/Lecture4/Excercise6/Excercise6.iml" />
@@ -29,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Marko_Angelovski_6078.iml" filepath="$PROJECT_DIR$/.idea/Marko_Angelovski_6078.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm/Midterm.iml" filepath="$PROJECT_DIR$/Midterm/Midterm.iml" />
     </modules>
   </component>
 </project>
