@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/EX1/EX1.iml" filepath="$PROJECT_DIR$/Lecture12/EX1/EX1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/EX1Class/EX1Class.iml" filepath="$PROJECT_DIR$/Lecture12/EX1Class/EX1Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/EX2/EX2.iml" filepath="$PROJECT_DIR$/Lecture12/EX2/EX2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/EX2Class/EX2Class.iml" filepath="$PROJECT_DIR$/Lecture12/EX2Class/EX2Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/EX3Class/EX3Class.iml" filepath="$PROJECT_DIR$/Lecture12/EX3Class/EX3Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/EXCERCISE3L7/EXCERCISE3L7.iml" filepath="$PROJECT_DIR$/Lecture7/EXCERCISE3L7/EXCERCISE3L7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/Excercice2L4/Excercice2L4.iml" filepath="$PROJECT_DIR$/Lecture7/Excercice2L4/Excercice2L4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Excercise 6/Excercise 6.iml" filepath="$PROJECT_DIR$/Lecture3/Excercise 6/Excercise 6.iml" />
@@ -49,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Lecture1.iml" filepath="$PROJECT_DIR$/Lecture1/Lecture1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Lecture10.iml" filepath="$PROJECT_DIR$/Lecture10/Lecture10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture11/Lecture11.iml" filepath="$PROJECT_DIR$/Lecture11/Lecture11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/Lecture12.iml" filepath="$PROJECT_DIR$/Lecture12/Lecture12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Lecture2.iml" filepath="$PROJECT_DIR$/Lecture2/Lecture2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
